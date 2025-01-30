@@ -34,4 +34,4 @@ Project Deliverables:
 A functional AI system for a car simulator game.
 Documentation detailing the AI architecture, algorithms, and implementation.
 A report summarizing the project's findings and conclusions.
-This project has the potential to be a significant contribution to the field of game AI and could have broader implications for the development of autonomous driving technologies
+This project has the potential to be a significant contribution to the field of game AI and could have broader implications for the development of autonomous driving technologies.
